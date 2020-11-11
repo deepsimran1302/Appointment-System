@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project_Pranav</string>
+    <string name="TimerScreen">You would not be this skeleton</string>
+    <string name="menuItem1">Book an appointment</string>
+    <string name="menuItem2">Fill 1</string>
+    <string name="menuItem3">Fill 2</string>
+    <string name="menuItem4">Fill 3</string>
+    <string name="emailEnter">LoginID</string>
+    <string name="password">Password</string>
+    <string name="loginHint">Enter your email</string>
+    <string name="passwordHint">Enter your password</string>
+    <string name="linkText">New user? Clicke here to register</string>
+    <string name="Registration_name">Name</string>
+    <string name="Registration_email">Email</string>
+    <string name="Registration_contactNo">Contact Number</string>
+    <string name="Registration_emergencyContact">Emergency Contact Number</string>
+    <string name="Registration_healthCardNo">Health Card Number</string>
+
+</resources>
